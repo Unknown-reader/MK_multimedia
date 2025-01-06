@@ -12,6 +12,9 @@
 
 - ![MONEY](/img/header_img.jpg) В качестве датасета для задачи классификации будем использовать [Salary Prediction Classification](https://www.kaggle.com/datasets/ayessa/salary-prediction-classification/data). Датасет содержит информацию о возрасте, поле, расе, образовании, семейном положении, стране, значении заработной платы (<=50'000$ or >50'000$ в год) и др. Будем определять <ins>больше ли 50'000$ заработная плата человека или нет</ins>.
 
+<br />
+<br />
+
 - ![POSSUM](/img/header_img2.jpg) В качестве датасета для задачи регрессии будем использовать [Possum Regression](https://www.kaggle.com/datasets/abrambeyer/openintro-possum/data). Датасет содержит информацию о породе, поле, длине тела, длине хвоста, размере головы, размере лап, возрасте и др. Будем определять <ins>возраст опоссума</ins>.
 
 
